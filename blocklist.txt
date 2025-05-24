@@ -2,3 +2,4 @@
 .*snapchat.*
 .*spotify.*
 .*whatsapp.*
+.*firebase.*
