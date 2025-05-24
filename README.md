@@ -1,0 +1,2 @@
+# blocklist
+Personal PiHole blocklist
