@@ -5,3 +5,4 @@
 .*firebase.*
 .*crashlytics.*
 .*analytic.*
+||alb.reddit.com^
