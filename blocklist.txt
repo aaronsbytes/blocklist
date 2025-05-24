@@ -6,3 +6,4 @@
 .*crashlytics.*
 .*analytic.*
 ||alb.reddit.com^
+||e.reddit.com^
